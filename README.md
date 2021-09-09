@@ -1,5 +1,5 @@
 # SIC_based_HP_MU_3D
-Performance Analysis of SIC based hybrid precoding for multi-user case in 3D scenario
+Performance Analysis of SIC based hybrid precoding for multi-user case in 3D scenario:-
 
 MIMO uses 2 to 4 antennas at the transmitter and receiver, which requires individual RF units for each antenna. Massive MIMO uses further large number of antennas (at least 64 antennas) to improve throughput and spectral efficiency, so it is one of the important technology in 5G. Beamforming is a signal processing technique which sends the signal in a particular direction rather than in a broadcast manner, resulting into increased dirctivity, energy efficiency, system gain and signal quality. Hence, it is called as one of the key technology for 5G and adopted by massive MIMO, but it can support only single data stream with one user. Precoding is a generalization of beamforming to support multiple data streams which superposes multiple beams. There are 2 types of precoding i.e. analog and digital precoding, whose combination of these 2 gives hybrid precoding which gives better performance with less complexity. In Successive Interference Cancelation (SIC) based hybrid precoding method, each antenna array is optimized separately (instead of jointly) such that while optimizing the specific array the contribution of optimized array is removed from the total capacity.
 
